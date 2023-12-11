@@ -1,0 +1,16 @@
+{
+  "name": "random-msj-tb",
+  "version": "1.0.0",
+  "description": "Ramdom String Messages by Tony Barquera",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Tony Barquera <tonybarquera.coder@gmail.com>",
+  "license": "MIT",
+  "bin": {
+	"random-str-msg": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
